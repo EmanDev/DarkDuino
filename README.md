@@ -22,7 +22,7 @@ Download the latest release. Copy the zip file to `C:\users\%usersprofile%\Docum
 
 ## Verify theme
 
-To check the theme (syntax and color schemes), restart arduino ide and use a sample code to confirm if the color schemes apply. You can use the sample code by download or copying the contents from the `[SampleCode.ino](https://github.com/EmanDev/DarkDuino/blob/main/SampleCode/SampleCode.ino)` from the folder `[SampleCode](https://github.com/EmanDev/DarkDuino/tree/main/SampleCode)`.
+To check the theme (syntax and color schemes), restart arduino ide and use a sample code to confirm if the color schemes apply. You can use the sample code by download or copying the contents from the `SampleCode.ino` from the folder `SampleCode`.
 
 ## Preview
 
