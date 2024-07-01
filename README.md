@@ -2,7 +2,7 @@
 
 # DarkDuino
 
-DarkDuino is a modified dark theme for the legacy version of aduino IDE 1.8x, based on [tauno-dark-0.2](https://github.com/taunoe/arduino-dark-theme/tree/master).
+DarkDuino is a modified dark theme for the legacy version of aduino IDE 1.8.x, based on [tauno-dark-0.2](https://github.com/taunoe/arduino-dark-theme/tree/master).
 
 
 # Changes
@@ -30,7 +30,7 @@ To customize this theme to your liking, edit the `theme.txt` file and change the
 
 ## Reason
 
-We all know of the newer Arduino IDE version (2.x). However, based on my experience, this update has been slow and fails to connect properly to arduino boards. Until it matches the functionality of the legacy version, as it works quite well for me, I will continue using it. Furthermore, typical dark themes online for arduino often have basic syntax highlighting, prompting me to customize and enhance the color scheme to my liking. Thus, **DarkDuino** was born.
+We all know of the newer Arduino IDE version (2.x.x). However, based on my experience, this update has been slow and fails to connect properly to arduino boards. Until it matches the functionality of the legacy version, as it works quite well for me, I will continue using it. Furthermore, typical dark themes online for arduino often have basic syntax highlighting, prompting me to customize and enhance the color scheme to my liking. Thus, **DarkDuino** was born.
 
 ## License
 
