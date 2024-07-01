@@ -1,4 +1,5 @@
 
+
 # DarkDuino
 
 DarkDuino is a modified dark theme for the legacy version of aduino IDE 1.8x, based on [tauno-dark-0.2](https://github.com/taunoe/arduino-dark-theme/tree/master).
@@ -22,6 +23,10 @@ Download the latest release. Copy the zip file to `C:\users\%usersprofile%\Docum
 ## Verify theme
 
 To check the theme (syntax and color schemes), restart arduino ide and use a sample code to confirm if the color schemes apply. You can use the sample code by download or copying the contents from the `[SampleCode.ino](https://github.com/EmanDev/DarkDuino/blob/main/SampleCode/SampleCode.ino)` from the folder `[SampleCode](https://github.com/EmanDev/DarkDuino/tree/main/SampleCode)`.
+
+## Preview
+
+![Sample Code Part 1](https://i.ibb.co/Gk6jGxs/Sample-Code.jpg)
 
 ## Customization
 
