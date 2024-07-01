@@ -1,0 +1,94 @@
+# DarkDuino 1.0
+# Based from Bearded Theme feat. Will and Tauno Dark 0.2
+# July 01, 2024 by EmanDev
+
+# GUI - STATUS
+status.notice.fgcolor = #5d6370
+status.notice.bgcolor = #35373b
+status.error.fgcolor  = #FFFFFF
+status.error.bgcolor  = #E34C00
+status.edit.fgcolor   = #5d6370
+status.edit.bgcolor   = #ffd766
+status.font           = SansSerif ,plain ,12
+
+# GUI - TABS
+# (tab images are stored in the lib/theme folder)
+header.bgcolor               = #35373b
+header.text.selected.color   = #95A5A6
+header.text.unselected.color = #5d6370
+header.text.font             = SansSerif, plain, 12
+
+# GUI - CONSOLE
+console.font         = Monospaced,plain,12
+console.font.macosx  = Monaco,plain,10
+console.color        = #000000
+console.output.color = #95A5A6
+console.error.color  = #E34C00
+
+# GUI - BUTTONS
+buttons.bgcolor      = #35373b
+buttons.status.font  = SansSerif,plain,12
+buttons.status.color = #95A5A6
+
+# GUI - PLOTTING
+plotting.bgcolor         = #2c3037
+plotting.color           = #95A5A6
+plotting.gridcolor       = #5d6370
+plotting.boundscolor     = #5d6370
+plotting.graphcolor.size = 9
+plotting.graphcolor.00   = #fc9667
+plotting.graphcolor.01   = #78dbe7
+plotting.graphcolor.02   = #a8db75
+plotting.graphcolor.03   = #ffd766
+plotting.graphcolor.04   = #a99cf2
+plotting.graphcolor.05   = #666666
+plotting.graphcolor.06   = #78dbe7
+plotting.graphcolor.07   = #000000
+
+# GUI - LINESTATUS
+linestatus.color   = #95A5A6
+linestatus.bgcolor = #35373b
+
+# EDITOR - DETAILS
+editor.fgcolor = #CFCFC2
+editor.bgcolor = #1E1F1C
+editor.linehighlight.color = #2D2E2E
+editor.linehighlight = true
+editor.caret.color = #F8F8F0
+editor.external.bgcolor = #1E1F1C
+editor.selection.color = #49483E
+editor.invalid.style = #F92672, bold
+editor.eolmarkers = false
+editor.eolmarkers.color = #49483E
+editor.brackethighlight = true
+editor.brackethighlight.color = #F8F8F2
+
+# TEXT - KEYWORDS
+editor.keyword1.style = #FF6188, bold
+editor.data_type.style = #FF6188, bold
+editor.keyword2.style = #78DCE8, plain
+editor.function.style = #A9DC76, plain
+editor.keyword3.style = #AB9DF2, plain
+editor.reserved_word.style = #FF6188, plain
+
+# TEXT - LITERALS
+editor.literal1.style = #FFD866, plain
+editor.literal2.style = #FFD866, plain
+editor.variable.style = #F8F8F2, plain
+editor.reserved_word_2.style = #AB9DF2, plain
+editor.literal_boolean.style = #AB9DF2, plain
+editor.literal_char.style = #FFD866, plain
+editor.literal_string_double_quote.style = #FFD866, plain
+editor.preprocessor.style = #FF6188, plain
+
+editor.url.style = #78DCE8, underlined
+editor.operator.style = #FF6188, plain
+editor.label.style = #F8F8F2, bold
+
+# TEXT - COMMENTS
+editor.comment1.style = #727072, italic
+editor.comment2.style = #727072, italic
+
+# LINE STATUS
+linestatus.font = SansSerif, plain, 10
+linestatus.height = 20
