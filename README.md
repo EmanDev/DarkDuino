@@ -28,6 +28,10 @@ To check the theme (syntax and color schemes), restart arduino ide and use a sam
 
 To customize this theme to your liking, edit the `theme.txt` file and change the colors. Check the comments and understand the syntax to edit it.
 
+## Reason
+
+We all know of the newer Arduino IDE version (2.x). However, based on my experience, this update has been slow and fails to connect properly to arduino boards. Until it matches the functionality of the legacy version, as it works quite well for me, I will continue using it. Furthermore, typical dark themes online for arduino often have basic syntax highlighting, prompting me to customize and enhance the color scheme to my liking. Thus, **DarkDuino** was born.
+
 ## License
 
 MIT License. Check the License file for more.
