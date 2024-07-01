@@ -24,10 +24,6 @@ Download the latest release. Copy the zip file to `C:\users\%usersprofile%\Docum
 
 To check the theme (syntax and color schemes), restart arduino ide and use a sample code to confirm if the color schemes apply. You can use the sample code by download or copying the contents from the `SampleCode.ino` from the folder `SampleCode`.
 
-## Preview
-
-![Sample Code Part 1](https://i.ibb.co/Gk6jGxs/Sample-Code.jpg)
-
 ## Customization
 
 To customize this theme to your liking, edit the `theme.txt` file and change the colors. Check the comments and understand the syntax to edit it.
